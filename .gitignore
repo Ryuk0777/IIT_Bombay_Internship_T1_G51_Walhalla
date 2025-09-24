@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and large files (optional, if you don't want to track datasets)
+#data/
+
+# Model weights (optional, if you have large trained models)
+#models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
