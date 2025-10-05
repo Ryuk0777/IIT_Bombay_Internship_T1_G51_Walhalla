@@ -23,3 +23,6 @@ Thumbs.db
 # Logs
 *.log
 
+# config files/folders
+catboost_info/
+
