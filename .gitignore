@@ -26,3 +26,5 @@ Thumbs.db
 # config files/folders
 catboost_info/
 
+# cuda file
+cuda-keyring_1.1-1_all.deb
