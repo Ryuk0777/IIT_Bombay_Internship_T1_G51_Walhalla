@@ -11,7 +11,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data and large files (optional, if you don't want to track datasets)
-data/
+data/STData
 
 # Model weights (optional, if you have large trained models)
 #models/
