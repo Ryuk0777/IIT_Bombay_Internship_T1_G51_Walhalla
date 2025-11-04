@@ -6,21 +6,21 @@
 
 ## 📖 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Dataset Description](#dataset-description)
-3. [Motivation](#motivation)
-4. [Methodology](#methodology)
-5. [Data Processing & Feature Engineering](#data-processing--feature-engineering)
-6. [Model Development](#model-development)
-7. [Results & Performance](#results--performance)
+1. [Project Overview](#-project-overview)
+2. [Dataset Description](#-dataset-description)
+3. [Motivation](#-motivation)
+4. [Methodology](#-methodology)
+5. [Data Processing & Feature Engineering](#-data-processing--feature-engineering)
+6. [Model Development](#-model-development)
+7. [Results & Performance](#-results--performance)
 8. [Project Pipeline Diagram](#-project-pipeline-ascii-diagram)
-9. [Hardware & Training Environment](#hardware--training-environment)
-10. [Repository Structure](#repository-structure)
-11. [How to Run Locally](#how-to-run-locally)
-12. [Challenges & Learnings](#challenges--learnings)
-13. [Future Work](#future-work)
+9. [Hardware & Training Environment](#️-hardware--training-environment)
+10. [Repository Structure](#-repository-structure)
+11. [How to Run Locally](#-how-to-run-locally)
+12. [Challenges & Learnings](#-challenges--learnings)
+13. [Future Work](#-future-work)
 14. [ References](#-references)
-15. [License](#license)
+15. [License](#-license)
 
 ---
 
