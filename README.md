@@ -20,7 +20,6 @@
 12. [Challenges & Learnings](#-challenges--learnings)
 13. [Future Work](#-future-work)
 14. [ References](#-references)
-15. [License](#-license)
 
 ---
 
